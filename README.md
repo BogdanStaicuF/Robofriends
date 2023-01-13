@@ -1,2 +1,2 @@
-This is a simple filtering app created with React...
+This is a simple filtering app created with React.
 
